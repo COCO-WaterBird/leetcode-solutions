@@ -23,14 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
