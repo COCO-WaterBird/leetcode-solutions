@@ -24,16 +24,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
