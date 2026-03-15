@@ -1,42 +1,50 @@
-class UnionFind:                          # ← 独立的类
-    def __init__(self):
-        self.father = {}
-    
-    def find(self, x):
-        root = x
-        while self.father[root] is not None:
-            root = self.father[root]
-        while x != root:
-            original_father = self.father[x]
-            self.father[x] = root
-            x = original_father
-        return root
-    
-    def merge(self, x, y):
-        root_x, root_y = self.find(x), self.find(y)
-        if root_x != root_y:
-            self.father[root_x] = root_y
-    
-    def is_connected(self, x, y):
-        return self.find(x) == self.find(y)
-    
-    def add(self, x):
-        if x not in self.father:
-            self.father[x] = None
+
+from typing import List
+
+MAXN = 1001
+father = list(range(MAXN))
+size   = [1] * MAXN
+stack  = [0] * MAXN
+
+def build(n: int) -> None:
+    for i in range(n + 1):
+        father[i] = i
+        size[i]   = 1
+
+def find(i: int) -> int:
+    top = 0
+    while i != father[i]:
+        stack[top] = i
+        top += 1
+        i = father[i]
+    while top > 0:
+        top -= 1
+        father[stack[top]] = i
+    return i
+
+def is_same_set(x: int, y: int) -> bool:
+    return find(x) == find(y)
+
+def union(x: int, y: int) -> None:
+    fx, fy = find(x), find(y)
+    if fx != fy:
+        if size[fx] >= size[fy]:
+            size[fx] += size[fy]
+            father[fy] = fx
+        else:
+            size[fy] += size[fx]
+            father[fx] = fy
 
 
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        uf = UnionFind()                  # ← 在这里使用 UnionFind
         n = len(isConnected)
-        
+        build(n)
+
         for i in range(n):
-            uf.add(i)                     # 先把所有节点加进去
-        
-        for i in range(n):
-            for j in range(i + 1, n):
+            for j in range(i + 1, n):    # 只看上三角，避免重复
                 if isConnected[i][j] == 1:
-                    uf.merge(i, j)        # 连通的城市合并
-        
-        # 统计有多少个根节点，就有多少个省份
-        return sum(1 for i in range(n) if uf.find(i) == i)
+                    union(i, j)
+
+        # 统计根节点个数 = 连通分量数
+        return sum(1 for i in range(n) if find(i) == i)
