@@ -1,47 +1,42 @@
 class Solution:
     def equationsPossible(self, equations: List[str]) -> bool:
 
-        # 并查集初始化
-        father = list(range(26))   # a~z 对应 0~25
+        #初始化
+        father = list(range(26))      # 只有 a-z，固定 26 个节点
         size   = [1] * 26
-        stack  = [0] * 26
 
         def find(i):
-            top = 0
-            while i != father[i]:
-                stack[top] = i
-                top += 1
-                i = father[i]
-            while top > 0:
-                top -= 1
-                father[stack[top]] = i
-            return i
+            if father[i] != i:
+                father[i] = find(father[i])
+            return father[i]
 
-        def union(x, y):
+        def union(x, y) -> bool:
             fx, fy = find(x), find(y)
-            if fx != fy:
-                if size[fx] >= size[fy]:
-                    size[fx] += size[fy]
-                    father[fy] = fx
-                else:
-                    size[fy] += size[fx]
-                    father[fx] = fy
+            if fx == fy:
+                return False
+            if size[fx] >= size[fy]:
+                size[fx] += size[fy]
+                father[fy] = fx
+            else:
+                size[fy] += size[fx]
+                father[fx] = fy
+            return True
 
-        def is_same_set(x, y):
+        def is_same_set(x, y) -> bool:
             return find(x) == find(y)
 
-        # -------- 主逻辑 --------
-        # 第一步：处理所有 ==
+        #主逻辑
+        # 第一遍：处理所有 ==，建立连通关系
         for eq in equations:
-            a, op, b = eq[0], eq[1:3], eq[3]
-            if op == "==":
-                union(ord(a) - ord('a'), ord(b) - ord('a'))
+            if eq[1] == '=':
+                union(ord(eq[0]) - ord('a'), ord(eq[3]) - ord('a'))
 
-        # 第二步：处理所有 !=
+        # 第二遍：检查所有 !=，验证是否矛盾
         for eq in equations:
-            a, op, b = eq[0], eq[1:3], eq[3]
-            if op == "!=":
-                if is_same_set(ord(a) - ord('a'), ord(b) - ord('a')):
-                    return False   # 矛盾
+            if eq[1] == '!':
+                a = ord(eq[0]) - ord('a')
+                b = ord(eq[3]) - ord('a')
+                if is_same_set(a, b):  # 不等的两端却在同一集合 → 矛盾
+                    return False
 
-        return True       
+        return True        
