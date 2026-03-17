@@ -6,4 +6,3 @@ class Solution:
                 nums[slow] = nums[fast]
                 slow += 1
         return slow
-            
