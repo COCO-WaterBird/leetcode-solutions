@@ -8,9 +8,9 @@ class Solution:
             if father[i] != i:
                 father[i] = find(father[i])
             return father[i]
-        
-        def union(x,y):
-            fx,fy = find(x),find(y)
+
+        def union(i,j):
+            fx,fy = find(i),find(j)
             if fx == fy:
                 return False
             if size[fx] >= size[fy]:
@@ -19,13 +19,20 @@ class Solution:
             else:
                 size[fy] += size[fx]
                 father[fx] = fy
-            return True
-        
-        def is_same_set(x,y):
-            return find(x) == find(y)
+
+        # def is_same_set(i,j):
+        #     return find(i) == find(j)
+
 
         for i in range(n):
             for j in range(i+1,n):
                 if isConnected[i][j] == 1:
                     union(i,j)
-        return sum(1 for i in range(n) if find(i) == i)
+        return sum(1 for i in range(n) if father[i] == i)
+
+
+
+
+
+
+
