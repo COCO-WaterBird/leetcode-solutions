@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
