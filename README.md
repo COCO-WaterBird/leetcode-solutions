@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0392-is-subsequence](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0072-edit-distance](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
