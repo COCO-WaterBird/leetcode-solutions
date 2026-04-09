@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
