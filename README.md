@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
