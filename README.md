@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0135-candy/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
