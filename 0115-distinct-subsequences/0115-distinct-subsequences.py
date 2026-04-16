@@ -2,7 +2,7 @@ class Solution:
     def numDistinct(self, s: str, t: str) -> int:
         slen = len(s)
         tlen = len(t)
-        dp = [[0] * (slen + 1)for _ in range(tlen+1)]
+        dp = [[0]*(slen+1)for _ in range(tlen+1)]
         for j in range(slen+1):
             dp[0][j] = 1
         for i in range(1,tlen+1):
