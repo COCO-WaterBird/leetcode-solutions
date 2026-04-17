@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -221,4 +223,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
