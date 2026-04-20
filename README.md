@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0054-spiral-matrix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0068-text-justification](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Tree
 | Problem Name | Difficulty |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0068-text-justification](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
