@@ -4,5 +4,6 @@ class Solution:
         for i,c in enumerate(nums):
             complement = target - c
             if complement in seen:
-                return [seen[complement], i]
+                return [seen[complement],i]
+            
             seen[c] = i
