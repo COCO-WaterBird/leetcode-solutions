@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Union-Find
