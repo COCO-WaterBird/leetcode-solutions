@@ -15,3 +15,4 @@ class Solution:
                 res.append(cur)
                 cur = p[i]
         return len(res) + 1
+        
