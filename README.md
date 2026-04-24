@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | undefined |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | undefined |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0135-candy/) | Hard |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | undefined |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
