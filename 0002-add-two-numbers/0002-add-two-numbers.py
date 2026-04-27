@@ -8,6 +8,7 @@ class Solution:
         dummy = ListNode(0)
         node = dummy
         carry = 0
+
         while l1 or l2 or carry:
             sum = carry
             if l1:
@@ -20,4 +21,3 @@ class Solution:
             carry = sum // 10
             node = node.next
         return dummy.next
-        
