@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0224-basic-calculator](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
