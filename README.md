@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
