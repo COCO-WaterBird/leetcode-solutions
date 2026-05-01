@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
