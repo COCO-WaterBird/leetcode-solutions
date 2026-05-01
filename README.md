@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0433-minimum-genetic-mutation](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0433-minimum-genetic-mutation](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0433-minimum-genetic-mutation](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0547-number-of-provinces](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
