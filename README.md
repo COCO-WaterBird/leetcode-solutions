@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | undefined |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0909-snakes-and-ladders](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## String
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0909-snakes-and-ladders](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0909-snakes-and-ladders](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
