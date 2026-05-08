@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
