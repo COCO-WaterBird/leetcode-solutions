@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
@@ -398,4 +399,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
