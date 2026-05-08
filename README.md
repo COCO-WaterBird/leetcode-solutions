@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0067-add-binary](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0289-game-of-life](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 ## Binary Search
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
