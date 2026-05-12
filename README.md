@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0224-basic-calculator](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
