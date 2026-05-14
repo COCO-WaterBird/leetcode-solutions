@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -427,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
