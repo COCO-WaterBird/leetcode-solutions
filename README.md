@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0148-sort-list) |
