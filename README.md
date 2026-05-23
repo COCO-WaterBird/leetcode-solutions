@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0289-game-of-life](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
+| [0322-coin-change](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0547-number-of-provinces](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0139-word-break](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/COCO-WaterBird/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0392-is-subsequence](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/COCO-WaterBird/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
