@@ -5,6 +5,7 @@ class Solution:
         """
         n = len(nums)
         k = k % n
-        nums_sec = nums[n-k:]
-       
-        nums[:] = nums_sec + nums[0:n-k]
+        arr = [0] * n
+        for i in range(n):
+            arr[(i+k)%n] = nums[i]
+        nums[:] = arr
