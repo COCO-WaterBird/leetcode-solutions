@@ -1,13 +1,11 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
 
-        n = len(prices)
-
-        dp = [[-inf] * 2 for _ in range(n + 1)]
-        dp[0][0] = 0
-
-        for i, p in enumerate(prices):
-            dp[i + 1][0] = max(dp[i][0], dp[i][1] + p)
-            dp[i + 1][1] = max(dp[i][1], -p)
-
-        return max(dp[n][0],dp[n][1])
+        f0 = 0
+        f1 = -inf
+        for p in prices:
+            f0_new = max(f0,f1+p)
+            f1_new = max(f1,-p)
+            f0 = f0_new
+            f1 = f1_new
+        return max(f0,f1)
