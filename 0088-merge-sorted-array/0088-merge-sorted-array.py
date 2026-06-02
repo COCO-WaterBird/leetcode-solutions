@@ -3,14 +3,20 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        slow = m - 1
-        fast = n - 1
-        tail = m + n - 1
-        while fast >= 0:
-            if slow >= 0 and nums1[slow] > nums2[fast]:
-                nums1[tail] = nums1[slow]
-                slow -= 1
+        k = m + n - 1
+
+        i = m - 1
+        j = n - 1
+        while i >= 0 and j >= 0:
+            if nums2[j] > nums1[i]:
+                nums1[k] = nums2[j]
+                
+                j -= 1
             else:
-                nums1[tail] = nums2[fast]
-                fast -= 1
-            tail -= 1
+                nums1[k] = nums1[i]
+                i -= 1
+            k -= 1
+        while j >= 0:
+            nums1[k] = nums2[j]
+            j -= 1
+            k -= 1
