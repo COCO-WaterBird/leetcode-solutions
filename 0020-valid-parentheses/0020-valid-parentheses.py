@@ -4,16 +4,17 @@ class Solution:
         pairs = {
             "(":")",
             "[":"]",
-            "{":"}",
+            "{":"}"
         }
-
         for char in s:
-            if char in pairs.keys():
+            if char in pairs:
                 stack.append(char)
             else:
                 if not stack:
                     return False
 
-                if char != pairs[stack.pop()]:
+                left = stack.pop()
+                if pairs[left] != char:
                     return False
-        return not stack
+                
+        return len(stack) == 0
