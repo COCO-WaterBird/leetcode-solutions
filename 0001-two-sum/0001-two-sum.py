@@ -6,6 +6,6 @@ class Solution:
         for i in range(n):
             comple = target - nums[i]
             if comple in seen:
-                return (seen[comple],i)
+                return [seen[comple],i]
             else:
                 seen[nums[i]] = i
