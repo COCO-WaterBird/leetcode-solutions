@@ -7,5 +7,5 @@ class Solution:
             comple = target - nums[i]
             if comple in seen:
                 return (seen[comple],i)
-           
-            seen[nums[i]] = i
+            else:
+                seen[nums[i]] = i
