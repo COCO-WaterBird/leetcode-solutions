@@ -1,17 +1,17 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        row_has = [[False] * 9 for _ in range(9)]
-        col_has = [[False] * 9 for _ in range(9)]
-        sub_box_has = [[[False] * 9 for _ in range(3)] for _ in range(3)]
-        for i, row in enumerate(board):
-            for j, b in enumerate(row):
-                if b == '.':
-                    continue
-                x = int(b) - 1  # 字符 '1'~'9' 转成数字 0~8
-                if row_has[i][x] or col_has[j][x] or sub_box_has[i // 3][j // 3][x]:  # 重复遇到数字 x
-                    return False
-                # 标记行、列、宫包含数字 x
-                row_has[i][x] = col_has[j][x] = sub_box_has[i // 3][j // 3][x] = True
-
-        return True
-
+        row = [[0]*10 for _ in range(9)] 
+        col = [[0]*10 for _ in range(9)] 
+        matrix = [[[0]*10 for _ in range(3)] for _ in range(3)] 
+        for i in range(9): 
+            for j in range(9): 
+                val = board[i][j] 
+                if val == '.': 
+                    continue 
+                num = int(val) 
+                row[i][num] +=1 
+                col[j][num] +=1 
+                matrix[i//3][j//3][num]+=1 
+                if row[i][num]>1 or col[j][num] >1 or matrix[i//3][j//3][num] > 1: 
+                    return False 
+        return True        
