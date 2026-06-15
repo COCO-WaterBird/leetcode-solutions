@@ -12,13 +12,12 @@ class Solution:
         res = []
         while q:
             n = len(q)
+            res.append(q[0].val)
             for i in range(n):
                 node = q.popleft()
-                
-                if node.left:
-                    q.append(node.left)
                 if node.right:
                     q.append(node.right)
-                if i == n-1:
-                    res.append(node.val)
-        return res
+                if node.left:
+                    q.append(node.left)
+                
+        return res   
